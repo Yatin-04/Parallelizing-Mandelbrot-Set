@@ -1,6 +1,6 @@
 # Parallelizing-Mandelbrot-Set
 
-Anas Albaqeri 
+Yatin
 
 
 ---
@@ -289,7 +289,7 @@ As we saw earlier, the computation of Mandelbrot Set using dynamic and static ap
 
 ---
 
-Please note that I have used these following tools to set up conduct the experiment, analysis and troubleshooting issues for this Assignment
+Please note that I have used these following tools to set up conduct the experiment, analysis and troubleshooting issues for this Project.
 
 1. ChatGPT.
 2. Wikipedia.
